@@ -1,1 +1,9 @@
 c:\users\fabio\documents\visual studio 2015\Projects\ChessTEC\ChessTEC\bin\Debug\ChessTEC.exe.config
+C:\Users\fabio\documents\visual studio 2015\Projects\ChessTEC\ChessTEC\bin\Debug\ChessTEC.exe
+C:\Users\fabio\documents\visual studio 2015\Projects\ChessTEC\ChessTEC\bin\Debug\ChessTEC.pdb
+C:\Users\fabio\documents\visual studio 2015\Projects\ChessTEC\ChessTEC\obj\Debug\ChessTEC.csprojResolveAssemblyReference.cache
+C:\Users\fabio\documents\visual studio 2015\Projects\ChessTEC\ChessTEC\obj\Debug\ChessTEC.Form1.resources
+C:\Users\fabio\documents\visual studio 2015\Projects\ChessTEC\ChessTEC\obj\Debug\ChessTEC.Properties.Resources.resources
+C:\Users\fabio\documents\visual studio 2015\Projects\ChessTEC\ChessTEC\obj\Debug\ChessTEC.csproj.GenerateResource.Cache
+C:\Users\fabio\documents\visual studio 2015\Projects\ChessTEC\ChessTEC\obj\Debug\ChessTEC.exe
+C:\Users\fabio\documents\visual studio 2015\Projects\ChessTEC\ChessTEC\obj\Debug\ChessTEC.pdb
