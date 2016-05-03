@@ -13,10 +13,10 @@ namespace ChessTEC.ParticionamientoTecnologico.Capa_de_Negocios.Piezas
             this.jugador = jugador;
             if (jugador == "player1")
             {
-                this.imagen = @"~\Recursos\Caballo_blanco.PNG";
+                this.imagen = @"C:\Users\fabio\documents\visual studio 2015\Projects\ChessTEC\ChessTEC\Recursos\Caballo_blanco.PNG";
             }
             else {
-                this.imagen = @"~\Recursos\Caballo_negro.PNG";
+                this.imagen = @"C:\Users\fabio\documents\visual studio 2015\Projects\ChessTEC\ChessTEC\Recursos\Caballo_negro.PNG";
             }
         }
 
